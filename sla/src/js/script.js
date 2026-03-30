@@ -44,3 +44,23 @@ console.log(exemplo7);
 //valor nulo
 let exemplo8 = null;
 console.log(exemplo8);
+
+// OPERADORES ARITMETICOS
+
+const valor = 10;
+const valor2 = 20;
+console.log(valor + valor2);
+console.log(valor - valor2);
+console.log(valor * valor2);
+console.log(valor / valor2);
+
+// OPERADORES LOGICOS
+// = atribuicoes
+// == comparacao
+// && and (todas as condicoes devem ser verdadeira)
+// || or (uma das condicoes deve ser verdadeira)
+
+console.log(valor < valor2);
+console.log(valor > 10 || valor2 < 10);
+console.log(valor == valor2);
+console.log(valor2 === valor)
